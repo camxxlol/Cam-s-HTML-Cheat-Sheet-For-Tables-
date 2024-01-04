@@ -1,0 +1,47 @@
+/*Main Title Text*/
+.title {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    background: url("https://st4.depositphotos.com/1008191/40044/i/450/depositphotos_400449522-stock-photo-light-blue-background-texture-distressed.jpg");
+}
+/* Table Headers */
+h2 {
+    text-align: center;
+    font-size: 30px;
+    color: deepskyblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+/* Tables */
+table {
+    border: 2px solid skyblue;
+    width: 650px;
+    margin: 0 auto;
+    font-family: monospace;
+    background-color: white;
+    text-decoration: underline skyblue;
+}
+/* Table Headers */
+thead {
+    background-color: skyblue;
+}
+/* Website background Color */
+body {
+    background-color: black;
+}
+/* Tag Column */
+.code {
+    background-color: khaki;
+    text-underline-position: below;
+}
+/* Footer */
+h3 {
+    color: white;
+    text-align: center;
+    font-family: 'Rubik Glitch', system-ui;
+    letter-spacing: 2px;
+    vertical-align: bottom;
+    position: absolute;
+    left: 42.9%;
+    bottom: 0;
+}
